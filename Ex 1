@@ -5,3 +5,12 @@ res = (m+n -1) //n
 
 print(res) """
 
+
+""" first_cl = int(input("Количество учеников в первом классе: "))
+second_cl = int(input("Количество учеников во втором классе: "))
+thrid_cl = int(input("Количество учеников в третьем классе: "))
+
+result = (first_cl + 1) // 2 + (second_cl + 1) // 2 + (thrid_cl + 1) // 2
+
+print(result) """
+
