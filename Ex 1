@@ -1,0 +1,7 @@
+""" n = int(input('speed: '))
+m = int(input('distance: '))
+
+res = (m+n -1) //n
+
+print(res) """
+
